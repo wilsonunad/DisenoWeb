@@ -119,7 +119,7 @@ header a:hover {
 
 #cabecera{
 	min-height: 460px;
-	background: url('./fondoo.jpg') no-repeat fixed center -130px;
+	background: url('../fondoo.jpg') no-repeat fixed center -130px;
 	background-size: cover;
 	text-align: center;
 	color: #000000;
